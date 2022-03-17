@@ -1,0 +1,5 @@
+Hello my name is Nghia,
+This is a repo dedicated to my journey learning computer vision.
+This serve as an archive where i can relearn background knowledge, aswell as a place where you can share and use Computer Vision Resource
+
+Hope you have a nice stay!!
