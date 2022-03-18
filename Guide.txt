@@ -1,5 +1,54 @@
 Hello my name is Nghia,
 This is a repo dedicated to my journey learning computer vision.
-This serve as an archive where i can relearn background knowledge, aswell as a place where you can share and use Computer Vision Resource
+This serve as an archive where i can relearn background knowledge, aswell as a place where you can share learning resources.
 
 Hope you have a nice stay!!
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+My journey into Computer Vision actually started first in Digital Signal Processing - where i learned about DFT and more  importantly: Vector Space
+The resource is: https://www.coursera.org/learn/dsp1 - specifically: Week 2
+If you have trouble understanding Linear Algebra - you can learn the main ideals here: https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B
+
+However, i would suggest you do some exercise - which can be found in the book: Mathematics for scientists and engineers ('Literatures') 
+
+Inside the aforementioned book, you can learn alot about the history of Mathematics, i personally found the story behind Euler's number extremly interesting.
+If you want to understand Fourier Transform, i would also suggest you under stand Euler's number.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+I think it is very important to have a good hold on Mathematics - specifically Linear Algebra - as it is widely used in mordern Computer Vision
+However, it would be wise to learn about the Classical methods used in CV, and to understand them, you need to understand these concepts:
+- Covariances (prob & stat)
+- Gaussian distribution (prob & stat)
+- Convolution (DSP)
+- Fourier Transform (DSP)
+- DFT (DSP)
+- PCA and SVD (tutorial in literature - need good understanding of Linear Algebra) 
+Covariances and Gaussian distribution should be introducted in any Probability and Statistic Course, so i dont have resource for them.
+Convolution, Fourier Transform and DFT are shown in the aforementioned coursera course.
+PCA and SVD is widely used in EVERY FIELD of STEM, i attached a tutorial in the 'Literatures' folder.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+If you havent learn Digital Image Processing yet, i highly suggest checking out this channel: 
+https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+I cannot deny the effectiveness of DCNN in mordern Computer Vision, nowaday, DCNNs have taken over and become the dominating force in CV.
+
+Let start with Machine Learning - follow this course: https://www.coursera.org/learn/machine-learning
+This channel also have many good refences down the line: https://www.youtube.com/c/Deeplearningai
+To get a good hold on Deep Learning, check out this free book: https://d2l.ai/
+You can follow the book for hand-on experiences, for me personallly, i followed this tutorial: https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Suggested learning path: 
+- Follow the Digital Image Processing channel first
+- You WILL hit a wall the moment technical technices in classical CV is introduced.
+- Then, learn the ideal behind Linear Algebra, followed by Vector Space in the Coursera course.
+- I suggest only learning mathematics when you cant understand the technical parts
+- When the relization hits - you'll get a boost of motivation. I personally love that feeling
+- Learn about PCA, check out the attached tutorial in 'Literatures' - need a very solid understanding of Linear Algebra
+- After learning about Classical methods in CV, i suggest learn the the book D2L.
+- Check out 'Important DCNN papers' -  it have the original papers of many important model and ideal used in CV.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Have fun learning.
